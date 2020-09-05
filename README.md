@@ -28,7 +28,7 @@ Insert random paragraph about myself here, Insert random paragraph about myself 
 
 <p align = "center">
 <a href = "https://github.com/ItzSylex/xensity"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=chartreuse-dark" /></a>
-<a href = "https://github.com/ItzSylex/xensity"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=chartreuse-dark" /></a>
+<a href = "https://github.com/ItzSylex/JojoAPI"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=itzsylex&repo=JojoAPI&theme=chartreuse-dark" /></a>
 
 </p>
 
