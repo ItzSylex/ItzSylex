@@ -11,8 +11,8 @@ Insert random paragraph about myself here, Insert random paragraph about myself 
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/Discord-.sylex%232803-%2314f750?style=for-the-badge&logo=Discord&logoColor=%2314f750">](#)
-[<img src="https://img.shields.io/twitter/follow/Bran_M16?color=%2314f750&label=Follow%20me&logo=Twitter&logoColor=%2314f750&style=for-the-badge" />](https://twitter.com/bran_m16)
+[<img src ="https://img.shields.io/badge/Discord-.sylex%232803-%232eb852?style=for-the-badge&logo=Discord&logoColor=%232eb852">](#)
+[<img src="https://img.shields.io/twitter/follow/Bran_M16?color=%232eb852&label=Follow%20me&logo=Twitter&logoColor=%232eb852&style=for-the-badge" />](https://twitter.com/bran_m16)
 
 </p>
 
