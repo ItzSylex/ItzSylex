@@ -43,8 +43,8 @@ Insert random paragraph about myself here, Insert random paragraph about myself 
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats-smoky-five.vercel.app/api?username=itzsylex&show_icons=true&theme=dracula&line_height=27&hide=contribs&">
-  <img src = "https://github-readme-stats-smoky-five.vercel.app/api/top-langs/?username=itzsylex&hide&theme=dracula&">
+  <a href="#"><img align="center" src="https://github-readme-stats-smoky-five.vercel.app/api?username=itzsylex&show_icons=true&theme=dracula&line_height=27&hide=contribs&" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats-smoky-five.vercel.app/api/top-langs/?username=itzsylex&hide&theme=dracula&" /></a>
 </p>
 
 </details>
