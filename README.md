@@ -11,8 +11,8 @@ Insert random paragraph about myself here, Insert random paragraph about myself 
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/Discord-.sylex%232803-%23CF202E?style=for-the-badge&logo=Discord&logoColor=%23CF202E">](#)
-[<img src="https://img.shields.io/twitter/follow/Bran_M16?color=%23CF202E&label=Follow%20me&logo=Twitter&logoColor=%23CF202E&style=for-the-badge" />](https://twitter.com/bran_m16)
+[<img src ="https://img.shields.io/badge/Discord-.sylex%232803-%2314f750?style=for-the-badge&logo=Discord&logoColor=%2314f750">](#)
+[<img src="https://img.shields.io/twitter/follow/Bran_M16?color=%2314f750&label=Follow%20me&logo=Twitter&logoColor=%2314f750&style=for-the-badge" />](https://twitter.com/bran_m16)
 
 </p>
 
@@ -27,8 +27,8 @@ Insert random paragraph about myself here, Insert random paragraph about myself 
 
 
 <p align = "center">
-<a href = "https://github.com/ItzSylex/xensity"><img align="center"  src="https://github-readme-stats-smoky-five.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=dracula" /></a>
-<a href = "https://github.com/ItzSylex/xensity"><img align="center"  src="https://github-readme-stats-smoky-five.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=dracula" /></a>
+<a href = "https://github.com/ItzSylex/xensity"><img align="center"  src="https://github-readme-stats-smoky-five.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=chartreuse-dark" /></a>
+<a href = "https://github.com/ItzSylex/xensity"><img align="center"  src="https://github-readme-stats-smoky-five.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=chartreuse-dark" /></a>
 
 </p>
 
@@ -43,8 +43,8 @@ Insert random paragraph about myself here, Insert random paragraph about myself 
 <br>
 
 <p align = "center">
-  <a href="#"><img align="center" src="https://github-readme-stats-smoky-five.vercel.app/api?username=itzsylex&show_icons=true&theme=dracula&line_height=27&hide=contribs&" /></a>
-  <a href="#"><img align="center" src="https://github-readme-stats-smoky-five.vercel.app/api/top-langs/?username=itzsylex&hide&theme=dracula&" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats-smoky-five.vercel.app/api?username=itzsylex&show_icons=true&theme=chartreuse-dark&line_height=27&hide=contribs&" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats-smoky-five.vercel.app/api/top-langs/?username=itzsylex&hide&theme=chartreuse-dark&" /></a>
 </p>
 
 </details>
