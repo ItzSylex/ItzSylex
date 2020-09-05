@@ -27,8 +27,8 @@ Insert random paragraph about myself here, Insert random paragraph about myself 
 
 
 <p align = "center">
-<a href = "https://github.com/pr2tik1/pr2tik1"><img align="center"  src="https://github-readme-stats-smoky-five.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=dracula" /></a>
-<a href = "https://github.com/pr2tik1/pr2tik1"><img align="center"  src="https://github-readme-stats-smoky-five.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=dracula" /></a>
+<a href = "https://github.com/ItzSylex/xensity"><img align="center"  src="https://github-readme-stats-smoky-five.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=dracula" /></a>
+<a href = "https://github.com/ItzSylex/xensity"><img align="center"  src="https://github-readme-stats-smoky-five.vercel.app/api/pin/?username=itzsylex&repo=xensity&theme=dracula" /></a>
 
 </p>
 
