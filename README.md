@@ -1,51 +1,27 @@
-## Hi there 👋 I'm Sylex !
+<h1 align="left">Hi 👋, I'm Sylex</h1>
+<h3 align="left">Data analyst and computer science student</h3>
 
-Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here, Insert random paragraph about myself here
+- 📑 I’m currently working on [rewriting an API](https://github.com/ItzSylex/JojoAPI)
+- 🎈 Check my portfolio [here](aboutbrandon.me)
+- ⚡ Fun fact **I like to sleep a lot**
 
-- 🚀 I want to learn **Flutter** and **Dart**
-
-- 💤 I like to **sleep**
-
-<details open>
-<summary>🌟 <b>Some contact info</b></summary>
-
-<p align = "center">
-
-[<img src ="https://img.shields.io/badge/Discord-.sylex%232803-%232eb852?style=for-the-badge&logo=Discord&logoColor=%232eb852">](#)
-[<img src="https://img.shields.io/twitter/follow/Bran_M16?color=%232eb852&label=Follow%20me&logo=Twitter&logoColor=%232eb852&style=for-the-badge" />](https://twitter.com/bran_m16)
-
-</p>
-
-</details>
-
-
----
-<details open>
- <summary><b>Some projects</b></summary>
-
- <br>
-
-
-<p align = "center">
-<a href = "https://github.com/ItzSylex/JojoAPI"><img align="center"  src="https://github-readme-stats.itzsylex.vercel.app/api/pin/?username=itzsylex&repo=JojoAPI&theme=chartreuse-dark" /></a>
-<a href = "https://github.com/ItzSylex/Toddy"><img align="center"  src="https://github-readme-stats.itzsylex.vercel.app/api/pin/?username=itzsylex&repo=Toddy&theme=chartreuse-dark" /></a>
-<a href = "https://github.com/ItzSylex/AccNotes"><img align="center"  src="https://github-readme-stats.itzsylex.vercel.app/api/pin/?username=itzsylex&repo=AccNotes&theme=chartreuse-dark" /></a>
-
-</p>
-
-</details>
-
-
----
-
-<details open>
- <summary> 📮 <b>Github Stats </b> </summary>
+<h3 align="left">Connect with me:</h3>
+<a href="https://twitter.com/bran_m16" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/brandonm16" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 <br>
 
-<p align = "center">
-  <a href="#"><img align="center" src="https://github-readme-stats.itzsylex.vercel.app/api?username=itzsylex&show_icons=true&theme=chartreuse-dark&line_height=27&hide=contribs" /></a>
-  <a href="#"><img align="center" src="https://github-readme-stats.itzsylex.vercel.app/api/top-langs/?username=itzsylex&hide&theme=chartreuse-dark&" /></a>
-</p>
+<h3 align="left">Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzsylex&show_icons=true&theme=onedark&locale=en&layout=compact&&count_private=true" alt="itzsylex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzsylex&show_icons=true&theme=onedark&locale=en" alt="itzsylex" /></p>
 
-</details>
+<br>
+
+<h3 align="left">Favorite Projects:</h3>
+
+[![Jojo API](https://github-readme-stats.vercel.app/api/pin/?username=itzsylex&repo=jojoapi&theme=onedark)](https://github.com/ItzSylex/JojoAPI)
+[![DiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=itzsylex&repo=Toddy&theme=onedark)](https://github.com/ItzSylex/Toddy)
