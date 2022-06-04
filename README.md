@@ -2,7 +2,7 @@
 <h3 align="left">Data analyst and computer science student</h3>
 
 - 📑 I’m currently working on [rewriting an API](https://github.com/ItzSylex/JojoAPI)
-- 🎈 Check my portfolio [here](aboutbrandon.me)
+- 🎈 Check my portfolio [here](https://aboutbrandon.me)
 - ⚡ Fun fact **I like to sleep a lot**
 
 <h3 align="left">Connect with me:</h3>
