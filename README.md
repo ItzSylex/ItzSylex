@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sylex</h1>
 <h3 align="left">Data analyst and computer science student</h3>
 
-- 📑 I’m currently working on [rewriting an API](https://github.com/ItzSylex/JojoAPI)
+- 🎮 I’m currently working on creating a game using Godot Engine
 - 🎈 Check my portfolio [here](https://aboutbrandon.me)
 - ⚡ Fun fact **I like to sleep a lot**
 
