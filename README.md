@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sylex</h1>
-<h3 align="left">Data analyst and computer science student</h3>
+<h3 align="left">Data engineer and computer science student</h3>
 
 - 🎮 I’m currently working on creating a game using Godot Engine
 - 🎈 Check my portfolio [here](https://aboutbrandon.me)
