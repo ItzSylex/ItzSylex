@@ -1,25 +1,30 @@
-<h1 align="left">Hi 👋, I'm Sylex</h1>
-<h3 align="left">Data engineer</h3>
 
-- 🎮 I’m currently working on creating a game using Godot Engine
-- 🎈 Check my portfolio [here](https://aboutbrandon.me)
-- ⚡ Fun fact **I like to sleep a lot**
 
-<h3 align="left">Connect with me:</h3>
-</a>
-<a href="https://linkedin.com/in/brandonm16" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Itzsylex&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Itzsylex)
 
-<br>
+## Hi, I'm Sylex 👋  
+**Data Engineer** 
 
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzsylex&show_icons=true&theme=onedark&locale=en&layout=compact&&count_private=true" alt="itzsylex" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzsylex&show_icons=true&theme=onedark&locale=en" alt="itzsylex" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonm16)
 
-<br>
+---
 
-<h3 align="left">Favorite Projects:</h3>
+### 🧰 Tech Stack
 
-[![Jojo API](https://github-readme-stats.vercel.app/api/pin/?username=itzsylex&repo=jojoapi&theme=onedark)](https://github.com/ItzSylex/JojoAPI)
-[![DiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=itzsylex&repo=Toddy&theme=onedark)](https://github.com/ItzSylex/Toddy)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+---
+
+### 🧠 What I'm Working On
+
+- 💹 Monitoring and alerting tool
+- 🧰 Backend pipelines & automation  
+- 💤 Dreaming up new builds  
+
+---
+
