@@ -24,7 +24,6 @@
 
 - 💹 Monitoring and alerting tool
 - 🧰 Backend pipelines & automation  
-- 💤 Dreaming up new builds  
 
 ---
 
